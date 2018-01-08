@@ -20,4 +20,4 @@ To achieve Level 4 on this section you will have to show me your profile on Algo
 
 # PROJECT RECURSIVE ART:
 
-![Preview](https://github.com/AYJACKSON-ICS4U/computer-science-algorithms-jaip777/blob/master/Recursive%20Art.js)
+![Preview](https://github.com/AYJACKSON-ICS4U/computer-science-algorithms-jaip777/blob/master/pictures/recursive%20art.png)
