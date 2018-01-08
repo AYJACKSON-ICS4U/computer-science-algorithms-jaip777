@@ -14,6 +14,9 @@ Into this repository you will:
 
 To achieve Level 4 on this section you will have to show me your profile on Algorithms in person. I am not able to check this without it.
 
-#PROJECT SELECTION SORT:
+# PROJECT SELECTION SORT:
 
 ![Preview](https://github.com/AYJACKSON-ICS4U/computer-science-algorithms-jaip777/blob/master/pictures/selection%20sort.png)
+
+# PROJECT RECURSIVE ART:
+
