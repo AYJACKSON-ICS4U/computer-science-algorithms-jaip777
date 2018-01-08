@@ -16,4 +16,4 @@ To achieve Level 4 on this section you will have to show me your profile on Algo
 
 #PROJECT SELECTION SORT:
 
-![Selection Sort Image](/images.https://github.com/AYJACKSON-ICS4U/computer-science-algorithms-jaip777/blob/master/pictures/selection%20sort.png)
+![Preview](https://github.com/AYJACKSON-ICS4U/computer-science-algorithms-jaip777/blob/master/pictures/selection%20sort.png)
